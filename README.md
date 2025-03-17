@@ -9,7 +9,7 @@ A multi-user client-server chat application with private messaging and end-to-en
 - **GUI and CLI Clients**: Includes both graphical and command-line clients.
 
 ## Screenshot
-![Chat Application Screenshot](images/screenshot.png)
+![Chat Application Screenshot](screenshot.png)
 
 ## Installation
 1. **Clone the repository**  
