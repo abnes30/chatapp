@@ -14,7 +14,7 @@ A multi-user client-server chat application with private messaging and end-to-en
 ## Installation
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/abnes30/chatbot.git
+   git clone https://github.com/abnes30/chatapp.git
    cd chatbot
    ```
 
